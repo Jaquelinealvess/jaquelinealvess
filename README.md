@@ -1,5 +1,6 @@
 
 ✨ _special_Profile ✨ 
+##
 Ola! Eu sou a Jaqueline Alves
 
 - 🔭 Atualmente trabalho com automação de processos.
@@ -12,6 +13,10 @@ Ola! Eu sou a Jaqueline Alves
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinealvess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
+  <img height="40" width="60" alt src="https://d16smq18f8amlc.cloudfront.net/66126/LearningPathImages/74484-58910f4e-2acd-4a2d-93a2-57da2a1faa5d.png?Expires=1656975464&Signature=Fccvc7FZcpSe3OMuS7MEtFQCHCsA3ALSxQ4WJG~5LBvnPabYrQCmRQlIr6eQHVbjWDK-9kP3uOYCSVr6Uu8zomtXajdOZv2ThfQ-pJV7XkwcAmlm2qyzlAgDAeHc6LrpaG-RSicwr235A9OXETRiYWP6whWIA7hBMYwAQ-yWDIQ_&Key-Pair-Id=APKAIQKC33KEMABEYE6A">
+  
+  <img height="40" width="60" alt src="href="https://templates.images.credential.net/16348209639256049618657118299158.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
