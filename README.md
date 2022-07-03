@@ -23,7 +23,7 @@ Ola! Eu sou a Jaqueline Alves
 </div>
   
   ##
- 
+   
 <div> 
   <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "target="_blank"></a>
   <a href="https://instagram.com/jaquelinealvess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
