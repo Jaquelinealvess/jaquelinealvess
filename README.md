@@ -31,6 +31,7 @@ Ola! Eu sou a Jaqueline Alves
   <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE" target="_blank"><img src="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"target="_blank"></a> 
    <a href="mailto:jaqueline.alves.ilhs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaqueline-alves-santos/>" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   ![Snake animation](https://github.com/jaquelinealvess/jaquelinealvess/blob/output/github-contribution-grid-snake.svg)
  
  
  
