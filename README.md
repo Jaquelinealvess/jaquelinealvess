@@ -1,5 +1,5 @@
 
-✨ _special_Profile ✨ 
+✨ _Special_Profile ✨ 
 ##
 Ola! Eu sou a Jaqueline Alves
 
