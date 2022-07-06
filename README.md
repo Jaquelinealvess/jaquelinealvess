@@ -20,6 +20,7 @@ Ola! Eu sou a Jaqueline Alves
   <img align="center" alt="jaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" align="center" alt="Made with Django." title="Made with Django." /></a>
 </div>
+![Snake animation](https://github.com/Jaquelinealvess/jaquelinealvess/blob/output/github-contribution-grid-snake.svg)
   
   ##
    
