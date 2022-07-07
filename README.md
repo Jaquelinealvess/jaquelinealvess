@@ -13,7 +13,7 @@ Ola! Eu sou a Jaqueline Alves
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinealvess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="60" alt src="https://d16smq18f8amlc.cloudfront.net/66126/LearningPathImages/74484-58910f4e-2acd-4a2d-93a2-57da2a1faa5d.png?Expires=1656975464&Signature=Fccvc7FZcpSe3OMuS7MEtFQCHCsA3ALSxQ4WJG~5LBvnPabYrQCmRQlIr6eQHVbjWDK-9kP3uOYCSVr6Uu8zomtXajdOZv2ThfQ-pJV7XkwcAmlm2qyzlAgDAeHc6LrpaG-RSicwr235A9OXETRiYWP6whWIA7hBMYwAQ-yWDIQ_&Key-Pair-Id=APKAIQKC33KEMABEYE6A">
+  <img align="center" height="40" width="60" src="https://d16smq18f8amlc.cloudfront.net/66126/LearningPathImages/74484-58910f4e-2acd-4a2d-93a2-57da2a1faa5d.png?Expires=1656975464&Signature=Fccvc7FZcpSe3OMuS7MEtFQCHCsA3ALSxQ4WJG~5LBvnPabYrQCmRQlIr6eQHVbjWDK-9kP3uOYCSVr6Uu8zomtXajdOZv2ThfQ-pJV7XkwcAmlm2qyzlAgDAeHc6LrpaG-RSicwr235A9OXETRiYWP6whWIA7hBMYwAQ-yWDIQ_&Key-Pair-Id=APKAIQKC33KEMABEYE6A">
   <img align="center" alt="jaque-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,7 +24,7 @@ Ola! Eu sou a Jaqueline Alves
   ##
    
 <div> 
-  <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "target="_blank"></a>
+  <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "target="_blank"></a>
   <a href="https://instagram.com/jaquelinealvess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jaquelinealvess" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE" target="_blank"><img src="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"target="_blank"></a> 
