@@ -1,11 +1,18 @@
 
 ✨ _Special_Profile ✨ 
+
 ##
 Ola! Eu sou a Jaqueline Alves
 
 - 🔭 Atualmente trabalho com automação de processos.
 - 🐍 Estudando Python e Django.
 - ✨ Pronouns: Ela/dela
+
+Comecei minha carreira em tecnologia atuando como professora de ensino técnico e ensino superior na faculdade que me graduei.
+Obtive o grande prazer de colaborar com a graduação de 2 turmas, sendo professora homenageada em 1 delas. Após o encerramento desse ciclo passei a me interessar pela área de qualidade de software e atuei em projetos envolvendo sistemas de gestão pública e privada. Durante minha jornada na garantia de qualidade me apaixonei por automação de testes e tudo que pode ser automatizado me encanta.
+Sou uma pessoa inquieta, curiosa, apaixonada por tecnologia, agilidade, inovação, resolução de problemas e estou constantemente motivada a experimentar o que é novo.
+Migrei para a área de RPA inicialmente atuando como analista funcional, onde obtive oportunidade de conhecer várias áreas de negócios, atuando diretamente em reuniões com clientes realizando mineração, levantamento dos requisitos necessários para o processo de automação. Adoro me desafiar, aprender coisas diferentes e sair da zona
+de conforto, e por este motivo comecei a atuar também como desenvolvedora RPA em processos de baixa, média e alta complexidade utilizando as ferramentas Automation Anywhere, Uipath e Blue Prism.
 <div align="center">
   <a href="https://github.com/jaquelinealvess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelinealvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
