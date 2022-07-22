@@ -6,7 +6,6 @@ Ola! Eu sou a Jaqueline Alves
 - 🔭 Atualmente trabalho com automação de processos.
 - 🐍 Estudando Python e Django.
 - ✨ Pronouns: Ela/dela
-
 <div align="center">
   <a href="https://github.com/jaquelinealvess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelinealvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,3 +32,5 @@ Ola! Eu sou a Jaqueline Alves
   ![Snake animation](https://github.com/Jaquelinealvess/jaquelinealvess/blob/output/github-contribution-grid-snake.svg)   
   
 </div>
+  
+  ![a-comprehensive-guide-to-ocr-with-rpa-and-document-understanding](https://user-images.githubusercontent.com/58447836/180506235-351fa176-0b09-4a05-a89e-da31c9c970c3.gif)
