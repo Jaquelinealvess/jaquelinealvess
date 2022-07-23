@@ -6,7 +6,7 @@ Ola! Meu nome é Jaqueline Alves.
 - 🔭 Stack: Automação de processos.
 - 🐍 Habilidades: Selenium, Automation Anywhere, Uipath, Blue Prism.
 - ✨ Aprendizados: Python, Django, HTML, CSS, React
-- ✨ Ferramentas: VSCode, Github
+- ✨ Ferramentas: VSCode, Jupyter Notebook, Pycharm, Github
 - ✨ Portifólio: Automação de aplicações Web, SAP e sistemas Desktop.
 
 Comecei minha carreira em tecnologia atuando como professora de ensino técnico e ensino superior na faculdade que me graduei.
