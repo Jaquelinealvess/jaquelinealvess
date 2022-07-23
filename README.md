@@ -1,12 +1,13 @@
 
 ✨ _Special_Profile ✨ 
-
 ##
-Ola! Eu sou a Jaqueline Alves
+Ola! Meu nome é Jaqueline Alves. 
 
-- 🔭 Atualmente trabalho com automação de processos.
-- 🐍 Estudando Python e Django.
-- ✨ Pronouns: Ela/dela
+- 🔭 Stack: Automação de processos.
+- 🐍 Habilidades: Selenium, Automation Anywhere, Uipath, Blue Prism.
+- ✨ Aprendizados: Python, Django, HTML, CSS, React
+- ✨ Ferramentas: VSCode, Github
+- ✨ Portifólio: Automação de aplicações Web, SAP e sistemas Desktop.
 
 Comecei minha carreira em tecnologia atuando como professora de ensino técnico e ensino superior na faculdade que me graduei.
 Obtive o grande prazer de colaborar com a graduação de 2 turmas, sendo professora homenageada em 1 delas. Após o encerramento desse ciclo passei a me interessar pela área de qualidade de software e atuei em projetos envolvendo sistemas de gestão pública e privada. Durante minha jornada na garantia de qualidade me apaixonei por automação de testes e tudo que pode ser automatizado me encanta.
@@ -25,10 +26,8 @@ de conforto, e por este motivo comecei a atuar também como desenvolvedora RPA e
   <img align="center" alt="jaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" align="center" alt="Made with Django." title="Made with Django." /></a>
 </div>
-  
-  ##
-   
-<div> 
+    ##
+   <div> 
   <a href="https://app.slack.com/client/T014DF3NF9P/C013L4CQRLP/rimeto_profile/U02D83PR3GE" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "target="_blank"></a>
   <a href="https://instagram.com/jaquelinealvess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jaquelinealvess" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
